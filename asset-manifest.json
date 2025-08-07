@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Webinterviewinfomration/static/css/main.a731db74.css",
+    "main.js": "/Webinterviewinfomration/static/js/main.2e5de380.js",
+    "static/js/453.ef3ed095.chunk.js": "/Webinterviewinfomration/static/js/453.ef3ed095.chunk.js",
+    "static/media/EV.jpg": "/Webinterviewinfomration/static/media/EV.dc4fe10de3f1c1f5872e.jpg",
+    "index.html": "/Webinterviewinfomration/index.html",
+    "main.a731db74.css.map": "/Webinterviewinfomration/static/css/main.a731db74.css.map",
+    "main.2e5de380.js.map": "/Webinterviewinfomration/static/js/main.2e5de380.js.map",
+    "453.ef3ed095.chunk.js.map": "/Webinterviewinfomration/static/js/453.ef3ed095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a731db74.css",
+    "static/js/main.2e5de380.js"
+  ]
+}
